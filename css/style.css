@@ -1,6 +1,4 @@
-/* 
-    Handcoded by JAC - Johnny Alimoot C.
-*/
+
 :root{
     --h1TextSize: 2.66em;
     --h2TextSize: 1.90em;
@@ -14,7 +12,7 @@
     --bgWhite : #ffffff;
     --bgBlack : #232527;
 
-    --primaryColor : #324381;
+    --primaryColor : #5271ff;
     --primaryBgBody : #ebeef4;
     --primaryBgFoot : #272a31;
 
